@@ -1,0 +1,28 @@
+.navbar-default{
+    background-color: black;
+    width: 100%;
+}
+.form-control{
+    border-radius:55px;
+    background-color: #0077b4;
+    color : white;
+    border:none;
+   
+}
+.form-control::-webkit-input-placeholder { color: white; }
+.form-control:-moz-placeholder { color: white; }
+.form-control::-moz-placeholder { color: white; }
+.form-control:-ms-input-placeholder { color: white; }
+button:focus {outline:0 !important;}
+body{
+    background-image: url(footer_lodyas.png);
+     
+}
+
+
+.navstyle{
+    font-size: 26px;
+}
+.navbar-default .navbar-nav > li > a{
+    color : white;
+}
